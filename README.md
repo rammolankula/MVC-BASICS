@@ -5,6 +5,6 @@
 ####	 * 3)if the URL's are same we need to specify the method.type
 ####	 * 4)Example::::-method=RequestMethod.POST
 ####	 * 5)Example::::-method=RequestMethod.GET
-####	 * 6)if want call the .html we need to store the html file in main-->webapps-->WEBINF-->pages-->.html
+####	 * 6)if i want call the .html we need to store the html file in main-->webapps-->WEBINF-->pages-->.html
 
 	 
