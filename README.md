@@ -1,4 +1,4 @@
-# MVC-BASICS
+# MVC
 #### *SOME CONTROLLER PRECAUTIONS
 ####	 * 1)Requestmapping as path it will take GETMAPPING
 ####	 * 2)it wont take the same URL's path
